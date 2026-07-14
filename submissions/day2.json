@@ -1,0 +1,19 @@
+{
+  "day": 2,
+  "student_name": "Sanjana shree G",
+  "github": "SA0806-65",
+  "lab1_scenario": "C",
+  "lab1_prompt": "I am the HR CHATBOT for the samsung technology company\n\ngenerate the clear and professional chatbot reply answering a new campus recuit's question about laptop provisioning\n\nContext: the company provides the laptop to all new hires. laptops are normally issued on the first day of joining during IT onboarding.\n\nConstraints: keep the response between 100-150 words. include the expected laptop delivery timeline and mention the it help desk  for assistance\n\nTone: professional,friendly,reassuring and consize\n\nOutput format: it must be written in two short paragraphs ending with offers to assist job offer",
+  "lab1_output_met_constraints": true,
+  "lab1_extra_scenarios_done": 1,
+  "lab2_problem": "Galaxy Buds distribution centre — shipment/hold/restock",
+  "lab2_naive_output_summary": "it gave 4299 units and showed the calculation step by step.it subtracted the shipment ,applied the 6% quality hold only to the remaining stock and then added the unaffected needs",
+  "lab2_cot_prompt": "compute the shipment then hod and restock to give final answer",
+  "lab2_cot_output_summary": "it was more trustworthy because it followed each inventory step in order, clearly showed the calculations and reduced the chances of errors",
+  "better_approach": "cot",
+  "stretch_done": true,
+  "stretch_react_prompt": "solve the inventory problem step by step. if any information is missing or calculation cannot be performed reliably, explicitly state what additional data or tool is needed instead of making assumptions.",
+  "tasks_completed": 6,
+  "tasks_total": 6,
+  "submitted_at": "2026-07-14T10:11:01.724Z"
+}
