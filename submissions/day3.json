@@ -16,5 +16,5 @@
   "stretch_notes": "In a RAG scenario, if the model’s existing knowledge says Samsung India offers a different parental leave duration but the provided policy document states that primary caregivers get 26 weeks and secondary caregivers get 2 weeks, the model should prioritize the provided document because it is the relevant internal source supplied for the task. The conflict demonstrates why retrieval-augmented generation helps ground answers in specific organizational policies.",
   "tasks_completed": 6,
   "tasks_total": 6,
-  "submitted_at": "2026-07-15T08:30:51.269Z"
+  "submitted_at": "2026-07-15T08:59:10.357Z"
 }
