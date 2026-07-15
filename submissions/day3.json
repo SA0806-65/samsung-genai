@@ -1,0 +1,20 @@
+{
+  "day": 3,
+  "student_name": "Sanjana shree G",
+  "github": "SA0806-65",
+  "ir_hallucination_done": true,
+  "ir_bias_done": true,
+  "ir_guardrail_builder_done": true,
+  "ir_battle_complete": true,
+  "ir_battle_blocked": 8,
+  "ir_battle_total": 8,
+  "rag_scenario": "B",
+  "rag_no_rag_summary": "“How many weeks of parental leave does a Samsung India full-time employee get, and does it differ for primary vs. secondary caregivers?”",
+  "rag_grounded_summary": "Samsung India full-time employees receive different parental leave durations depending on caregiver status. Primary caregivers (regardless of gender) are entitled to 26 weeks of fully paid parental leave, while secondary caregivers are entitled to 2 weeks of fully paid leave. The leave must be used within 12 months of the child’s birth or adoption date.",
+  "rag_judgement": "no_difference",
+  "stretch_done": true,
+  "stretch_notes": "In a RAG scenario, if the model’s existing knowledge says Samsung India offers a different parental leave duration but the provided policy document states that primary caregivers get 26 weeks and secondary caregivers get 2 weeks, the model should prioritize the provided document because it is the relevant internal source supplied for the task. The conflict demonstrates why retrieval-augmented generation helps ground answers in specific organizational policies.",
+  "tasks_completed": 6,
+  "tasks_total": 6,
+  "submitted_at": "2026-07-15T08:30:51.269Z"
+}
