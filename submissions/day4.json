@@ -1,0 +1,52 @@
+{
+  "day": 4,
+  "student_name": "Sanjana shree G",
+  "github": "SA0806-65",
+  "incidents": [
+    {
+      "id": "A",
+      "failure_type": "Hallucination",
+      "principle": "Reliability",
+      "justification": "The chatbot confidently fabricated a non-existent discount policy, producing false information that users could not rely on."
+    },
+    {
+      "id": "B",
+      "failure_type": "Privacy Violation",
+      "principle": "Privacy",
+      "justification": "The assistant collected and stored employees' confidential messages without their knowledge or consent, exposing sensitive client information."
+    },
+    {
+      "id": "C",
+      "failure_type": "Deepfake/Misinformation",
+      "principle": "Transparency",
+      "justification": "An AI-generated video was presented as authentic, misleading the public and influencing the company's stock price before it was exposed as fake."
+    },
+    {
+      "id": "D",
+      "failure_type": "Bias/Discrimination",
+      "principle": "Fairness",
+      "justification": "The hiring system unfairly disadvantaged applicants from certain women's colleges, resulting in discriminatory outcomes despite gender not being an explicit input."
+    },
+    {
+      "id": "E",
+      "failure_type": "Lack of Human Oversight",
+      "principle": "Human Oversight",
+      "justification": "The biased moderation pattern went unchecked for weeks because no human monitored or reviewed the system's decisions until an external complaint exposed the issue."
+    },
+    {
+      "id": "F",
+      "failure_type": "Deepfake/Misinformation",
+      "principle": "Security",
+      "justification": "Attackers used AI-generated voice cloning to impersonate an executive and deceive an employee into making a fraudulent financial transfer."
+    }
+  ],
+  "justifications_written": 6,
+  "stretch_done": true,
+  "stretch_company": "Clearview AI",
+  "stretch_failure_type": "Privacy Violation",
+  "stretch_principle": "Privacy",
+  "stretch_notes": "Clearview AI scraped billions of publicly available images from websites and social media without people's consent to build a facial recognition database, leading to investigations, fines, and legal action in multiple countries over privacy concerns.",
+  "tasks_completed": 6,
+  "tasks_total": 6,
+  "submitted_at": "2026-07-16T06:27:49.843Z"
+}
